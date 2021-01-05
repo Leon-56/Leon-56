@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api?username=Leon-56&show_icons=true&bg_color=ffffff)
 <!--
 **Leon-56/Leon-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
